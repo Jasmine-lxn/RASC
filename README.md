@@ -20,6 +20,8 @@ Make sure your local environment has the following installed:
   - `FB15k-237/`
   - `NELL995/`
   - `DDB14/`
+  - 'WN18/'
+  - 'WN18RR'
 
 ## Training
 
